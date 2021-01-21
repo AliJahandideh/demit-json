@@ -1,11 +1,115 @@
 {
-  "posts": [
+  "works": [
     {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+    "id": 2,
+    "slug": "tale-control-poster",
+    "title": {
+      "en": "Take Control Poster Design",
+      "fa": "طراحی پوستر تیک کنترل"
+    },
+    "desc": {
+      "en": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore...",
+      "fa": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روز..."
+    },
+    "designer": {
+      "en": "Ali Jahandideh",
+      "fa": "علی جهان‌دیده"
+    },
+    "img": "work-img-3.png",
+    "body": [
+        "image-1.png",
+        "image-2.png",
+        "image-3.png",
+        "image-4.png"
+    ],
+    "categoryID": "Print",
+    "category": {
+      "en": "Print",
+      "fa": "چاپ"
+    },
+    "clientName": {
+      "en": "Kalaband",
+      "fa": "کالابند"
+    },
+    "projectDate": {
+      "en": "20 Feb 2020",
+      "fa": "۲۲ بهمن ۱۳۹۹"
+    },
+    "primaryColor": "#ECE4C0"
+  },
+  {
+    "id": 1,
+    "slug": "up-animation",
+    "title": {
+      "en": "Up Animation Poster Design",
+      "fa": "طراحی پوستر انیمیشن آپ"
+    },
+    "desc": {
+      "en": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore...",
+      "fa": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روز..."
+    },
+    "designer": {
+      "en": "Ali Jahandideh",
+      "fa": "علی جهان‌دیده"
+    },
+    "img": "work-img-2.png",
+    "body": [
+        "image-1.png",
+        "image-2.png",
+        "image-3.png",
+        "image-4.png"
+    ],
+    "categoryID": "Print",
+    "category": {
+      "en": "Print",
+      "fa": "چاپ"
+    },
+    "clientName": {
+      "en": "Kalaband",
+      "fa": "کالابند"
+    },
+    "projectDate": {
+      "en": "20 Feb 2020",
+      "fa": "۲۲ بهمن ۱۳۹۹"
+    },
+    "primaryColor": "#B0D0DB"
+  },
+  {
+    "id": 0,
+    "slug": "black-swan-poster",
+    "title": {
+      "en": "Black Swan Poster Design",
+      "fa": "طراحی پوسنر قوی سیاه"
+    },
+    "desc": {
+      "en": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore...",
+      "fa": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روز..."
+    },
+    "designer": {
+      "en": "Ali Jahandideh",
+      "fa": "علی جهان‌دیده"
+    },
+    "img": "work-img-1.png",
+    "body": [
+        "image-1.png",
+        "image-2.png",
+        "image-3.png",
+        "image-4.png"
+    ],
+    "categoryID": "Web",
+    "category": {
+      "en": "Web",
+      "fa": "وب"
+    },
+    "clientName": {
+      "en": "Kalaband",
+      "fa": "کالابند"
+    },
+    "projectDate": {
+      "en": "20 Feb 2020",
+      "fa": "۲۲ بهمن ۱۳۹۹"
+    },
+    "primaryColor": "#BDBEC2"
   }
+  ],
 }
