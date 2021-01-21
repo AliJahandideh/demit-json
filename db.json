@@ -1,42 +1,6 @@
 {
   "works": [
     {
-      "id": "4",
-      "slug": "take-control-poster-2",
-      "title": {
-        "en": "Take Control Poster Design",
-        "fa": "طراحی پوستر تیک کنترل"
-      },
-      "desc": {
-        "en": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore...",
-        "fa": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روز..."
-      },
-      "img": "work-img-3.png",
-      "body": ["image-1.png", "image-2.png", "image-3.png", "image-4.png"],
-      "categoryID": "Print",
-      "category": {
-        "en": "Print",
-        "fa": "چاپ"
-      },
-      "clientName": {
-        "en": "Kalaband",
-        "fa": "کالابند"
-      },
-      "projectDate": {
-        "en": "20 Feb 2020",
-        "fa": "۲۲ بهمن ۱۳۹۹"
-      },
-      "primaryColor": "#ECE4C0",
-      "author": {
-        "en": "Ali Jahandideh",
-        "fa": "علی جهان‌دیده"
-      },
-      "authorTitle": {
-        "en": "Web Designer",
-        "fa": "طراح وب"
-      }
-    },
-    {
     "id": "3",
       "slug": "take-control-poster",
       "title": {
