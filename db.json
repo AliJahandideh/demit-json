@@ -1,42 +1,6 @@
 {
   "works": [
     {
-        "id": "4",
-        "slug": "roozbeh-zarei-business-card",
-        "title": {
-        "en": "Roozbeh Zarei's Business Card",
-        "fa": "کارت ویزیت روزبه زارعی"
-        },
-        "desc": {
-        "en": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore...",
-        "fa": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روز..."
-        },
-        "img": "work-img-3.png",
-        "body": ["image-1.png", "image-2.png", "image-3.png", "image-4.png"],
-        "categoryID": "Print",
-        "category": {
-        "en": "Business Card",
-        "fa": "کارت ویزیت"
-        },
-        "clientName": {
-        "en": "Roozbeh Zarei",
-        "fa": "روزبه زارعی"
-        },
-        "projectDate": {
-        "en": "20 Feb 2020",
-        "fa": "۲۲ بهمن ۱۳۹۹"
-        },
-        "primaryColor": "#d8854b",
-        "author": {
-        "en": "Hamidreza Zobeyri",
-        "fa": "حمیدرضا زبیری"
-        },
-        "authorTitle": {
-        "en": "Graphic Designer",
-        "fa": "طراح گرافیک"
-        }
-    },
-    {
         "id": "3",
       "slug": "take-control-poster",
       "title": {
